@@ -9,7 +9,7 @@ Getting started
 Initialize source from YRRP manifest:
 
 ```
-repo init -u https://github.com/Yim-s-Riced-ROM-Project/android.git -b lineage-23.2 --git-lfs
+repo init -u https://github.com/YRRPs/android.git -b lineage-23.2 --git-lfs
 ```
 
 Sync source:
@@ -25,9 +25,9 @@ source build/envsetup.sh
 breakfast salami
 ```
 
-LineageOS roomservice manages unmodified device, kernel, and hardware projects. YRRP manifest currently replaces only `frameworks/base` with [`Yim-s-Riced-ROM-Project/android_frameworks_base`](https://github.com/Yim-s-Riced-ROM-Project/android_frameworks_base).
+LineageOS roomservice manages unmodified device, kernel, and hardware projects. YRRP manifest currently replaces only `frameworks/base` with [`YRRPs/android_frameworks_base`](https://github.com/YRRPs/android_frameworks_base).
 
-Build, signing, installation, and project documentation live in [`Yim-s-Riced-ROM-Project/project`](https://github.com/Yim-s-Riced-ROM-Project/project).
+Build, signing, installation, and project documentation live in [`YRRPs/project`](https://github.com/YRRPs/project).
 
 Upstream
 --------

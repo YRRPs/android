@@ -9,7 +9,7 @@
            fetch="ssh://git@github.com" />
 
   <remote  name="yrrp"
-           fetch="https://github.com/Yim-s-Riced-ROM-Project" />
+           fetch="https://github.com/YRRPs" />
 
   <remote  name="aosp"
            fetch="https://android.googlesource.com"
