@@ -600,6 +600,7 @@
   <project path="frameworks/av" name="LineageOS/android_frameworks_av" groups="pdk,sysui-studio" />
   <project path="frameworks/base" name="android_frameworks_base" remote="yrrp" groups="pdk-cw-fs,pdk-fs,sysui-studio" />
   <project path="vendor/extra" name="android_vendor_extra" remote="yrrp" />
+  <project path="vendor/gapps" name="MindTheGapps/vendor_gapps" remote="github" revision="refs/heads/baklava" clone-depth="1" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" remote="aosp" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" remote="aosp" />
   <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" groups="pdk" remote="aosp" />
