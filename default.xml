@@ -602,7 +602,7 @@
   <project path="frameworks/av" name="android_frameworks_av" remote="yrrp" groups="pdk,sysui-studio" />
   <project path="frameworks/base" name="android_frameworks_base" remote="yrrp" groups="pdk-cw-fs,pdk-fs,sysui-studio" />
   <project path="vendor/extra" name="android_vendor_extra" remote="yrrp" />
-  <project path="vendor/gapps" name="MindTheGapps/vendor_gapps" remote="github" revision="refs/heads/baklava" clone-depth="1" />
+  <project path="vendor/gapps" name="MindTheGapps/vendor_gapps" remote="github" revision="fd25b09d4b8001e72a5e1c2a7e5572f75268747c" upstream="refs/heads/baklava" clone-depth="1" />
   <project path="vendor/oneplus/salami" name="proprietary_vendor_oneplus_salami" remote="yrrp" />
   <project path="vendor/oneplus/xueying" name="TheMuppets/proprietary_vendor_oneplus_xueying" />
   <project path="vendor/oplus/camera-salami" name="YRRPs/proprietary_vendor_oplus_camera-salami" remote="private" />
